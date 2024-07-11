@@ -1,0 +1,18 @@
+{
+    "hseUPS": {
+        "object_owner": {
+            "global_roles": [
+                {
+                    "roles": ["hseRoleForOO"]
+                }
+            ]
+        },
+        "application_user": {
+            "global_roles": [
+                {
+                    "roles": ["hseRoleForAP"]
+                }
+            ]
+        }
+    }
+}
